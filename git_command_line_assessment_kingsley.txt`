@@ -1,0 +1,5 @@
+$ git checkout brance_name.txt     >command use to switch over the master or the branch
+$ git add filename.txt     >the is use to add a file to the stagging area
+$ git diff    > this is use to check the difference between the working directory and the staging area(it needs no argument) 
+$ git branch branch-name.txt   > this command create a branch in the master
+$ git branch -d branch_name    > this command deletes branch maybe after merging with the master
